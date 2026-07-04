@@ -72,5 +72,4 @@ la experiencia del usuario y generan fricción en el proceso de compra.
 |---------|-------------|
 | `README.md` | Documentación del proyecto |
 | `bug-reports/BUG-001.png` | Captura campo nombre acepta números |
-| `bug-reports/BUG-002.png` | Captura error 502 al cancelar pago |
 | `bug-reports/BUG-003.png` | Captura modal membresía sin opciones |
